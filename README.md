@@ -67,8 +67,6 @@ We will have weekly assignments that are relevant to material from the previous 
 * Connections you made among the week’s readings, lectures, class activities, homework assignments, etc.
 * Links to any web page, source code or layout files you created (Codepen, Figma, Github, P5 Editor, etc.).
 
-Add the link to your logs to the [class list](https://github.com/lenincompres/ima-front-end-web/wiki) under your name. Ask the instructor or GA for access, if you are unable to edit this page. 
-
 Each assignment is due by the next class meeting after they are assigned unless stated otherwise. It is expected that you will spend 6 to 8 hours a week on the class outside of class itself. This will include reviewing material, reading, watching video, completing assignments and so on. Please budget your time accordingly.
 
 Each assignment will be marked as complete (full credit), partially complete (half credit), or incomplete (no credit). To be complete an assignment should meet the criteria specified in the syllabus including documentation. If significant portions are simply not attempted or the assignment is turned in late (up to 1 week) then it may be marked partially complete. If it is more than a week late, not turned in, or an attempt isn’t made to meet the criteria specified it will be marked incomplete.
