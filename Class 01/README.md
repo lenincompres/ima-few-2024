@@ -19,7 +19,7 @@ Go over syllabus & class requirements. This is a contract between students + pro
 
 * [Community Guidelines](https://community.itp.io/community_statement)
 * [ITP/IMA Wall](https://itp.nyu.edu/people/wall/)
-* [github](https://github.com/)
+* [Github](https://github.com/)
 * [Codepen](https://codepen.io/pen/)
 * [w3schools](https://www.w3schools.com/)
 
@@ -32,7 +32,7 @@ Go over syllabus & class requirements. This is a contract between students + pro
   * [Viewport tag](https://www.w3schools.com/css/css_rwd_viewport.asp)
   * [Attributes](https://www.geeksforgeeks.org/html-attributes/)
   * [Unicode](https://home.unicode.org/basic-info/overview/), [HTML Charset](https://www.w3schools.com/html/html_charset.asp)
-* [Inspecting the Page](https://developers.google.com/web/tools/chrome-devtools/dom/)
+* [Devtools - Inspecting the Page](https://developers.google.com/web/tools/chrome-devtools/dom/)
 
 ## In class assignment
 
