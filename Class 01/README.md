@@ -63,7 +63,7 @@ Work with a partner and create a new pen at [Codepen](https://codepen.io/pen/) A
   * [Mozilla - Getting Started with CSS Tutorials Parts 1-14](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started)
   * [25 HTML and CSS Tutorials on Codeburst](https://codeburst.io/25-html-css-tutorials-6a864f387185)
 * Join
-  * Use ITP/IMA's pronunciation tool [Say My Name](https://stu.itp.nyu.edu/saymyname)
+  * Update your picture and say your name [ITP/IMA's wall](https://itp.nyu.edu/people/wall/)
   * Join [Github](https://github.com/)
 * Download a code editor of your choice (Visual Studio Code, Atom, Brackets.io, etc)
   * In your code editor, create a new file named index.html. Take the code you created in class and copy and paste it into this file. Using [this as an example](https://codepen.io/callihiggins/pen/jOEjrPQ), add a Nav bar to your page that makes sense with the context of your restaurant's page. At the moment, it will just look like a bulleted list- thats ok! We'll make it look like a nav bar next week with css. Turn in this file in via NYU classes.
