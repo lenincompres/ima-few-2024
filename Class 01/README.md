@@ -74,12 +74,10 @@ Work with a partner and create a new pen at [Codepen](https://codepen.io/pen/) A
 * [Andrew Blum - What Is The Internet Really?](https://www.ted.com/talks/andrew_blum_what_is_the_internet_really)
 * [Don't Fear the Internet pt 1 - 4](http://www.dontfeartheinternet.com/) Note: the text editors mentioned in pt 4 are outdated
 
-### Review any of these
+### Review
 * [What's In An HTTP Request](http://rve.org.uk/dumprequest)
 * [HTML Boilerplate](https://github.com/callihiggins/IMA-FE/tree/master/02_jan30_day2/HTML_Boilerplate)
 * [HTML5 Element List](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/HTML5_element_list)
 * [HTML5 Semantics](http://diveintohtml5.info/semantics.html)
 * [Why Use Semantic HTML?](https://css-tricks.com/why-how-and-when-to-use-semantic-html-and-aria/)
 * [HTML5 Boilerplate](http://html5boilerplate.com/)
-* Download a code editor of your choice (Visual Studio Code, Atom, Brackets.io, etc)
-* Have you done an intro to HTML learning log yet? If not, now is a great time to get your feet wet with basic tags. The [day1 folder](https://github.com/IDMNYU/DM-UY-2193-B/tree/master/01_jan29_day1) has some suggestions, but feel free to find your own.
