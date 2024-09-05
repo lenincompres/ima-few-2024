@@ -20,7 +20,7 @@ Go over syllabus & class requirements. This is a contract between students + pro
 * [github](https://github.com/)
 * [Codepen](https://codepen.io/pen/)
 * [ITP/IMA Wall](https://itp.nyu.edu/people/wall/)
-* [Code of conduct](https://itpnyu.github.io/ITP-IMA-Code-of-Conduct/community_statement)
+* [Community Guideline](https://community.itp.io/community_statement)
 
 # Part 2
 
