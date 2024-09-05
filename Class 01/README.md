@@ -52,8 +52,8 @@ Work with a partner and create a new pen at [Codepen](https://codepen.io/pen/) A
 
 # Homework
 
-* Let's get inspired! Start finding creative portfolios, cool interactive experiences, or perfectly polished websites- whatever makes you excited about learning front end development. Be prepared to give a 2-3 min presentation to the class on the work that you found (do some research into its origins) and why you're interested in it.
-* Complete a Learning Log this week that will help you begin to learn the introductory concepts of HTML and CSS
+* Let's get inspired! Start finding creative portfolios, cool interactive experiences, or perfectly polished websites—whatever makes you excited about learning front-end development. Be prepared to give a 2-3 min presentation to the class on the work that you found (do some research into its origins) and why you're interested in it.
+* Complete a Learning Log this week that will help you begin to learn the introductory concepts of HTML and CSS. Here are some resources:
   * [Khan Academy - Intro to HTML/CSS: Making Webpages](https://www.khanacademy.org/computing/computer-programming/html-css)
   * [Codecademy - Make A Website](https://www.codecademy.com/learn/make-a-website)
   * [HTML Dog](https://htmldog.com/)
@@ -64,7 +64,6 @@ Work with a partner and create a new pen at [Codepen](https://codepen.io/pen/) A
   * [25 HTML and CSS Tutorials on Codeburst](https://codeburst.io/25-html-css-tutorials-6a864f387185)
 * Join
   * Use ITP/IMA's pronunciation tool [Say My Name](https://stu.itp.nyu.edu/saymyname)
-  * Sign up for our class's [Slack group](https://23imafront-endweb.slack.com)
   * Join [Github](https://github.com/)
 * Download a code editor of your choice (Visual Studio Code, Atom, Brackets.io, etc)
   * In your code editor, create a new file named index.html. Take the code you created in class and copy and paste it into this file. Using [this as an example](https://codepen.io/callihiggins/pen/jOEjrPQ), add a Nav bar to your page that makes sense with the context of your restaurant's page. At the moment, it will just look like a bulleted list- thats ok! We'll make it look like a nav bar next week with css. Turn in this file in via NYU classes.
@@ -75,7 +74,7 @@ Work with a partner and create a new pen at [Codepen](https://codepen.io/pen/) A
 * [Andrew Blum - What Is The Internet Really?](https://www.ted.com/talks/andrew_blum_what_is_the_internet_really)
 * [Don't Fear the Internet pt 1 - 4](http://www.dontfeartheinternet.com/) Note: the text editors mentioned in pt 4 are outdated
 
-### Review
+### Review any of these
 * [What's In An HTTP Request](http://rve.org.uk/dumprequest)
 * [HTML Boilerplate](https://github.com/callihiggins/IMA-FE/tree/master/02_jan30_day2/HTML_Boilerplate)
 * [HTML5 Element List](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/HTML5_element_list)
