@@ -10,7 +10,7 @@ While this course is geared towards Tisch IMA students it will be open to all NY
 * [Course Syllabus](https://github.com/lenincompres/ima-few-2024)
 * IMNY-UT 228 / 4 Credits
 * Interactive Media Arts
-* 7/23/2023
+* 9/05/2024
 * Instructor Name: Lenin Compres
 
 ## Course Description
