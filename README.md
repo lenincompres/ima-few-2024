@@ -110,25 +110,25 @@ For example, 4 absences will result in your highest possible grade being a B ins
 
 Optional makeup work statement: While there is no distinction in this course between excused and unexcused absences, you may inquire with me about makeup work if you have more than 4 absences. Makeup work may be content you can consume, having a conversation with someone in class, additional office hours, writing a paper or an additional project. Not all course content can be made up. Please clarify with your instructor.
 
-## Grade Overview
+### Grade Overview
 
-### A. Excellent (90-100)
+#### A. Excellent (90-100)
 
 Performance, participation, and attendance of the student has been of the highest level, showing sustained excellence in meeting course responsibilities. Work clearly differentiates itself from other work, has memorable impact, pursues concepts and techniques above and beyond what is discussed in class. The student thoroughly understands the web design and development process.
 
-### B. Very Good / Good (80-89)
+#### B. Very Good / Good (80-89)
 
 Performance, participation, and attendance of the student has been good, though not of the highest level. Work demonstrates a better than average web design and development process.
 
-### C. Satisfactory (70-79)
+#### C. Satisfactory (70-79)
 
 Performance and attendance of the student has been adequate, satisfactorily meeting the course requirements. Work is average and competent, showing a basic understanding of the web design and development process.
 
-### D. Poor; Below Average (60-69)
+#### D. Poor; Below Average (60-69)
 
 Performance and attendance of the student has been less than adequate. Work is lacking in many or most areas that show any understanding of visual foundation. Problems may include lack of interest, procrastination, poor planning and poor craft.
 
-### F. Unacceptable (59 & Below)
+#### F. Unacceptable (59 & Below)
 
 Performance and attendance of the student has been such that course requirements have not been met. Work shows no overall understanding of the course material on many levels or either a severe lack of interest.
 
