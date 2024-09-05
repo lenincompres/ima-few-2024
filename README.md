@@ -19,7 +19,15 @@ This course will provide a foundation for understanding modern web development w
 
 Students will create two web applications, including one that leverages public APIs and Javascript libraries. The goal of the course is for students to learn how to think holistically about an application, both by designing a clear user experience and understanding the algorithmic steps required to build it. Assignments are arranged in sequence to enable the production of a website of high quality in design and engineering.
 
-## Learning Objectives
+### Teaching Style 
+
+Classes will be a mixture of lecture, discussion, hands-on tutorials, homework review, presentations, and group work.  You will need to come to class prepared with a laptop and any other supplies specified for that class.
+
+### Course Schedule
+
+The course will be one (1) time per week for three hours (5:20) for a total of 15 weeks.  
+
+### Learning Objectives
 
 At the completion of this course, the student will:
 
@@ -28,7 +36,7 @@ At the completion of this course, the student will:
 * Learn how to proactively learn, also known as self-regulated learning. In any learning situation, you should study beforehand, make/do, debug, reflect, adjust, and do it all over again (iteration). Learning happens in a cycle.
 * Create an internal developer / creative community
 
-## Course Content Overview
+### Course Content Overview
 
 User Interface (UI) / User Experience (UX)
 
@@ -37,11 +45,11 @@ User Interface (UI) / User Experience (UX)
 * Javascript, Javascript Libraries + Frameworks
 * Using Public Data via APIs
 
-## Equipment
+### Equipment
 
 You will need a modern laptop (4 years old or younger is a good rule of thumb).  Limited numbers are available for checkout from the department.  Commercial software required in the course will be made available on the laptops available for checkout.  Other required software is freely available.
 
-## Software
+### Software
 
 All software required for the course is freely available
 
@@ -60,7 +68,7 @@ Grades for the course will follow the standard A through F letter grading system
 
 ### Regular Assignments 30%
 
-We will have weekly assignments that are relevant to material from the previous class. Most assignments will include a Learning Log, where you will be asked to provide some assessment of your clarity on a topic after doing a tutorial. Please write on your Learning Logs (a personal blog or documentation) . You can create your logs on Github, Notion, Wordpress, even Google docs, if you prefer. Here are some things to include in your weekly logs:
+We will have weekly assignments that are relevant to material from the previous class. Most assignments will include a Learning Log, where you will be asked to provide some assessment of your clarity on a topic after doing a tutorial. Please write on your Learning Logs (a personal blog or documentation). You can create your logs on Github, Notion, Wordpress, even Google docs, if you prefer. Here are some things to include in your weekly logs:
 * Identify (name, URL, sections, etc.) at least one tutorial that you did, and respond to the following.
 * Instances where you achieved clarity, i.e. understood something or felt pieces of knowledge falling into place towards a greater understanding.
 * Instances where you did NOT achieve clarity and why. What can you do to aid your understanding?
@@ -76,8 +84,11 @@ Each assignment will be marked as complete (full credit), partially complete (ha
 The midterm assignment will be a project that demonstrates a working knowledge of website design and responsive HTML & CSS. This project must be completed, published, and presented.
 
 ### Participation 20%
-
 This class will be participatory, you are expected to participate in discussions and give feedback to other students both in class and participate with their projects. This is 20% of your overall grade. Each student will be asked to do a 5-min presentation on a Learning Log throughout the semester, which is part of your participation grade.
+
+I am committed to facilitating the fullest possible participation of all my students. Acknowledging that being present is a form of participation in itself, and that engaged listening is not a passive form of participation either, I welcome my students to communicate with me what kinds of engagement are best for them so I can take that into account. I will provide clear expectations and examples around participation to help ensure everyone’s voice has a place in this space.
+
+Examples of modes of participation can look like: asking questions, going to office hours, sending and reading emails, class group discussion, arriving on time, going to class, taking notes, listening to peers, submitting responses to a form (anonymous or not), following instructions, active listening, etc.
 
 ### Final Project 20%
 
@@ -115,56 +126,51 @@ Performance and attendance of the student has been less than adequate. Work is l
 
 Performance and attendance of the student has been such that course requirements have not been met. Work shows no overall understanding of the course material on many levels or either a severe lack of interest.
 
-## Absences and Tardiness
+## Attendance
+There are no excused absences and unexcused absences. There are only absences. You can have 4 amount of absences without your grade being affected. A passing grade requires at least 50% attendance. 2 late arrivals (more than 10 minutes after start time) will count as 1 absence.
+For example, 4 absences will result in your highest possible grade being a B instead of an A.
 
-Attendance is mandatory. Please inform the professor via email if you are going to miss a class. Showing up late for class or an excessive number of absences will adversely affect your grade. 
-
-At most two (2) unexcused absences will be tolerated without effect to your grade.  Any more than two (2) unexcused absences will result in a lowering of your final grade by one whole grade for each unexcused absence.  For example, three (3) unexcused absences will result in your highest possible grade being a B instead of an A.  Four (4) unexcused absences will result in your highest possible grade being a C and so on.  Six (6) unexcused absences will result in an automatic F for the course.  Two (2) late arrivals will count for one (1) absence.
-
-## Participation
-
-This class will be highly participatory. You are expected to contribute to discussions, engage in group work, give feedback to your peers, and otherwise fully participate in class.
+Optional makeup work statement: While there is no distinction in this course between excused and unexcused absences, you may inquire with me about makeup work if you have more than 4 absences. Makeup work may be content you can consume, having a conversation with someone in class, additional office hours, writing a paper or an additional project. Not all course content can be made up. Please clarify with your instructor.
 
 ## Electronics Use
 
 Recreational use of phones, music players, video game systems and other devices are forbidden. Laptops and tablets are allowed for note taking, in class work, as well as relevant research only. Activities not related to the class, such as recreational use of the internet, including all social media websites, email and instant messaging, game playing, and work for other classes, will not be permitted. Such activities are disrespectful to the instructor and distracting to others. 
 
-## Teaching Style 
+## Diverse Perspectives and Learning Modes
+Your success in this class is important to me. We all learn differently and require different kinds of accommodations. If there are aspects of this course that prevent you from learning or exclude you in any way, I invite you to communicate this with me. Together we’ll develop strategies to meet both your needs and the requirements of the course.
 
-Classes will be a mixture of lecture, discussion, hands-on tutorials, homework review, presentations, and group work.  You will need to come to class prepared with a laptop and any other supplies specified for that class.
+## Open Office Hours
+You all enter this classroom with different sets of skills. In virtue of this fact, I open my office to you as an extension of the classroom. I am available for you during that time and if you can’t make it to the scheduled times, you are welcome to make an appointment with me at any time. There’s no incorrect way to approach office hours, and they can be as formal or informal as you would like. In this class, we will not shy away from difficult conversations and work closely together to cultivate a space of openness and mutual support. I welcome you to contact me outside of class and office hours. You may email me, call me, or schedule an appointment.
 
-## Course Schedule
+ ## Incompletes
+Incomplete grades may only be given to students who have completed more than half of the class assignments. Incomplete grades are given at the discretion of the professor since managing incomplete grades is often additional uncompensated labor for the instructor.
 
-The course will be one (1) time per week for three hours (3:00) for a total of 15 weeks.  
+## Extensions
+An assignment extension may be granted upon request. If you request an extension, your grade will not be affected. However, if you do not request an extension, the grading rules above apply.
 
-## Assigments 
+## Communication
+You must check your email (or other stated class form of communication) for important updates about class.
 
-We will have weekly assignments that are relevant to material from the previous class. Most assignments will include a Learning Log, where you will be asked to provide some assessment of your clarity on a topic after doing a tutorial. Please refer to the Learning Logs file in this repository for more instructions.
-
-Each assignment is due by the next class meeting after they are assigned unless stated otherwise. It is expected that you will spend 6 to 8 hours a week on the class outside of class itself. This will include reviewing material, reading, watching video, completing assignments and so on. Please budget your time accordingly.
-
-Each assignment will be marked as complete (full credit), partially complete (half credit), or incomplete (no credit). To be complete an assignment should meet the criteria specified in the syllabus including documentation. If significant portions are simply not attempted or the assignment is turned in late (up to 1 week) then it may be marked partially complete. If it is more than a week late, not turned in, or an attempt isn’t made to meet the criteria specified it will be marked incomplete.
-
-## Statement of Academic Integrity 
-
+## Statement Of Academic Integrity
 Plagiarism is presenting someone else’s work as though it were your own. More specifically, plagiarism is to present as your own: A sequence of words quoted without quotation marks from another writer or a paraphrased passage from another writer’s work or facts, ideas or images composed by someone else.
+Collaboration is highly valued and often necessary to produce great work. Students build their own work on that of other people and giving credit to the creator of the work you are incorporating into your own work is an act of integrity. Plagiarism, on the other hand, is a form of fraud. Proper acknowledgment and correct citation constitute the difference.
+Link to the Tisch Student Handbook
 
-## Statement of Principle
+Link to Suggested Practices for Syllabus Accessibility Statements
 
-The core of the educational experience at the Tisch School of the Arts is the creation of original academic and artistic work by students for the critical review of faculty members.  It is therefore of the utmost importance that students at all times provide their instructors with an accurate sense of their current abilities and knowledge in order to receive appropriate constructive criticism and advice.  Any attempt to evade that essential, transparent transaction between instructor and student through plagiarism or cheating is educationally self-defeating and a grave violation of Tisch School of the Arts community standards.  For all the details on plagiarism, please refer to page 10 of the Tisch School of the Arts, Policies and Procedures Handbook, which can be found online at https://tisch.nyu.edu/student-affairs/important-resources/tisch-policies-and-handbooks
+## Statement On Accessibility
+It’s crucial for our community to create and uphold learning environments that empower students of all abilities. We are committed to create an environment that enables open dialogue about the various temporary and long term needs of students and participants for their academic success. We encourage all students and participants to discuss with faculty and staff possible accommodations that would best support their learning. Students may also contact the Moses Center for Student Accessibility (212-998-4980) for resources and support.
+Link to the Moses Center for Student Accessibility )
 
-## Statement on Accessibility 
+## Statement On Counseling and Wellness
+Your health and safety are a priority at NYU. Emphasizing the importance of the wellness of each individual within our community, students are encouraged to utilize the resources and support services available to them 24 hours a day, 7 days a week via the NYU Wellness Exchange Hotline at 212-443-9999. Additional support is available over email at wellness.exchange@nyu.edu and within the NYU Wellness Exchange app.
+Link to the NYU Counseling and Wellness Center
 
-Please feel free to make suggestions to your instructor about ways in which this class could become more accessible to you.  Academic accommodations are available for students with documented disabilities. Please contact the Moses Center for Students with Disabilities at 212 998-4980 for further information.
+## Statement On Use Of Electronic Devices
+Laptops and other electronic devices are essential tools for learning and interaction in classrooms. However, they can create distractions that hinder students' ability to actively participate and engage. Please be mindful of the ways in which these devices can affect the learning environment.
+Statement On Title IX
+Tisch School of the Arts is dedicated to providing its students with a learning environment that is rigorous, respectful, supportive and nurturing so that they can engage in the free exchange of ideas and commit themselves fully to the study of their discipline. To that end, Tisch is committed to enforcing University policies prohibiting all forms of sexual misconduct as well as discrimination on the basis of sex and gender. Detailed information regarding these policies and the resources that are available to students through the Title IX office can be found by using the following link:
+Link to the NYU Title IX Office
 
-## Statement on Counseling and Wellness
-
-Your health and safety are a priority at NYU. If you experience any health or mental health issues during this course, we encourage you to utilize the support services of the 24/7 NYU Wellness Exchange at 212-443-9999. Also, all students who may require academic accommodation due to a qualified disability, physical or mental, please register with the Moses Center at 212-998-4980. Please let your instructor know if you need help connecting to these resources.
-
-## Statement on Use of Electronics Devices
-
-Laptops will be an essential part of the course and may be used in class during workshops and for taking notes in lectures. Laptops must be closed during class discussions and student presentations.  Phone use in class is strictly prohibited unless directly related to a presentation of your own work or if you are asked to do so as part of the curriculum.
-
-## Statement on Title IX
-
-Tisch School of the Arts to dedicated to providing its students with a learning environment that is rigorous, respectful, supportive and nurturing so that they can engage in the free exchange of ideas and commit themselves fully to the study of their discipline. To that end Tisch is committed to enforcing University policies prohibiting all forms of sexual misconduct as well as discrimination on the basis of sex and gender.  Detailed information regarding these policies and the resources that are available to students through the Title IX office can be found by using the following link: Title IX at NYU.
+## Statement Of Principle
+Teachers and students work together to create a supportive learning environment. The educational experience in the classroom is one that is enhanced by integrating varying perspectives and learning modes brought by stude
