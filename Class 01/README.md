@@ -52,7 +52,7 @@ Work with a partner and create a new pen at [Codepen](https://codepen.io/pen/) A
 
 # Homework
 
-* Let's get inspired! Start finding creative portfolios, cool interactive experiences, or perfectly polished websites—whatever makes you excited about learning front-end development. Be prepared to give a 2-3 min presentation to the class on the work that you found (do some research into its origins) and why you're interested in it.
+* Get inspired! Find creative portfolios, cool interactive experiences, or perfectly polished websites—whatever makes you excited about learning front-end development. Be prepared to give a 2-3 min presentation to the class on the work that you found (do some research into its origins) and why you're interested in it.
 * Start a Learning Log that will help you begin to learn the introductory concepts of HTML and CSS. Here are some resources:
   * [Khan Academy - Intro to HTML/CSS: Making Webpages](https://www.khanacademy.org/computing/computer-programming/html-css)
   * [Codecademy - Make A Website](https://www.codecademy.com/learn/make-a-website)
