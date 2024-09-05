@@ -12,7 +12,7 @@ Go over syllabus & class requirements. This is a contract between students + pro
 
 ## Lecture: What is Web Development?
 
-[Slides from today](https://docs.google.com/presentation/d/1TopvU9msiomXmC6m0DDSg0Oy3W669TZjBBCZ2wAnv7o/edit?usp=sharing)
+[Introduction Slides](https://docs.google.com/presentation/d/1TopvU9msiomXmC6m0DDSg0Oy3W669TZjBBCZ2wAnv7o/edit?usp=sharing)
 
 ## Some links
 
