@@ -16,11 +16,12 @@ Go over syllabus & class requirements. This is a contract between students + pro
 
 ## Some links
 
-* [w3schools](https://www.w3schools.com/)
+
+* [Community Guideline](https://community.itp.io/community_statement)
+* [ITP/IMA Wall](https://itp.nyu.edu/people/wall/)
 * [github](https://github.com/)
 * [Codepen](https://codepen.io/pen/)
-* [ITP/IMA Wall](https://itp.nyu.edu/people/wall/)
-* [Community Guideline](https://community.itp.io/community_statement)
+* [w3schools](https://www.w3schools.com/)
 
 # Part 2
 
