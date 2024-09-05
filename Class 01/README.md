@@ -17,7 +17,7 @@ Go over syllabus & class requirements. This is a contract between students + pro
 ## Some links
 
 
-* [Community Guideline](https://community.itp.io/community_statement)
+* [Community Guidelines](https://community.itp.io/community_statement)
 * [ITP/IMA Wall](https://itp.nyu.edu/people/wall/)
 * [github](https://github.com/)
 * [Codepen](https://codepen.io/pen/)
@@ -30,7 +30,6 @@ Go over syllabus & class requirements. This is a contract between students + pro
 * [The HTML document](https://www.w3schools.com/tags/tag_doctype.asp)
   * [Meta tags](https://www.w3schools.com/tags/tag_meta.asp)
   * [Viewport tag](https://www.w3schools.com/css/css_rwd_viewport.asp)
-* [HTML5 Semantics](http://diveintohtml5.info/semantics.html)
   * [Attributes](https://www.geeksforgeeks.org/html-attributes/)
   * [Unicode](https://home.unicode.org/basic-info/overview/), [HTML Charset](https://www.w3schools.com/html/html_charset.asp)
 * [Inspecting the Page](https://developers.google.com/web/tools/chrome-devtools/dom/)
