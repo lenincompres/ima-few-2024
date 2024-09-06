@@ -23,11 +23,21 @@ Classes include lectures, discussions, tutorials, homework reviews, presentation
 - Engage in self-regulated learning and build a creative community.
 
 ## Course Content Overview
-- **UI/UX Design**
-- **HTML5 / CSS3**
-- **Responsive Web Design**
-- **JavaScript & Libraries/Frameworks**
-- **Using Public Data via APIs**
+- Class 1: **WWW & HTML**
+- Class 2: **UI/UX Design**
+- Class 3: **CSS Intro**
+- Class 4: **CSS Layout**
+- Class 5: **Dynamic/Responsive CSS**
+- Class 6: **Midterm Presentation**
+- Class 7: **Javascript Intro**
+- Class 8: **JS Objects & DOM Elements**
+- Class 9: **Webapps & API's**
+- Class 10: **More API's**
+- Class 11: **CSV/DATA, DOM.js**
+- Class 12: **Frameworks (DOM.js, React.js)**
+- Class 13: **Classes & Binders**
+- Class 14: **Quesystring, Cookies, Localstorage**
+- Class 15: **Final Presentation**
 
 ## Equipment and Software
 - **Laptop:** Modern (4 years old or newer); limited checkouts available.
