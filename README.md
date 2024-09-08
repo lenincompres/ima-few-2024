@@ -49,8 +49,12 @@ Classes include lectures, discussions, tutorials, homework reviews, presentation
 
 ## Grading Breakdown
 - **Regular Assignments and Documentation (30%)**
-  - Weekly assignments including Learning Logs. Logs must document tutorials, insights, and connections.
-  - Document work on Github.
+  - Weekly assignments including Learning Logs (a personal blog or documentation on Github, Notion, Wordpress, even Google docs).
+    - Identify (name, URL, sections, etc.) at least one tutorial that you did.
+    - Where did you achieve clarity? i.e. understood something or felt pieces of knowledge falling into place towards a greater understanding.
+    - Where you did NOT achieve clarity and why? What can you do to aid your understanding?
+    - Connections you made among the week’s readings, lectures, class activities, homework assignments, etc.
+    - Links to any web page, source code or layout files you created (Codepen, Figma, Github, P5 Editor, etc.).
 - **Participation (20%)**
   - Participate in class discussions, critiques and ideas. 
   - 5-minute presentation on a Learning Log.
