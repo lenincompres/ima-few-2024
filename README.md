@@ -18,9 +18,10 @@ Classes include lectures, discussions, tutorials, homework reviews, presentation
 - **Duration:** 15 weeks
 
 ## Learning Objectives
-- Design, build, and develop professional-quality websites.
-- Implement iterative design and development processes.
-- Engage in self-regulated learning and build a creative community.
+- Know how to design, build, and develop content for a professional-quality website.
+- Understand and implement the iterative design and development process
+- Learn how to proactively learn, also known as self-regulated learning. In any learning situation, you should study beforehand, make/do, debug, reflect, adjust, and do it all over again (iteration). Learning happens in a cycle.
+- Create an internal developer / creative community
 
 ## Course Content Overview
 - Class 1: **WWW & HTML**
