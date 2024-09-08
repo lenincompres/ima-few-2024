@@ -33,7 +33,7 @@ Classes include lectures, discussions, tutorials, homework reviews, presentation
 - Class 8: **JS Objects & DOM Elements**
 - Class 9: **Webapps & API's**
 - Class 10: **More API's**
-- Class 11: **CSV/DATA, DOM.js**
+- Class 11: **Handling DATA (CSV)**
 - Class 12: **Frameworks (DOM.js, React.js)**
 - Class 13: **Classes & Binders**
 - Class 14: **Quesystring, Cookies, Localstorage**
