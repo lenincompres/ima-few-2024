@@ -54,7 +54,7 @@ Classes include lectures, discussions, tutorials, homework reviews, presentation
 - **Participation (20%)**
   - Participate in class discussions, critiques and ideas. 
   - 5-minute presentation on a Learning Log.
-  - Share your learning journing, finds and comments on our GChat Space.
+  - Share your learning journey, your web finds and your comments on our GChat Space.
   - Meet the instructor for [office ours](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3QG2_4dV8WaqqEWGbWKz9MEhIOISzeb-frVA7O1RNNY7Xgdz3Rs851-sV43AskNzUBsRnd_7Pp).
 - **Mid-Term Project (25%)**
   - Demonstrates knowledge of website design and responsive HTML/CSS.
