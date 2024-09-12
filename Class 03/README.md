@@ -24,7 +24,7 @@
 
 # PART 2 - CSS Continuation
 
-* Fonts: [Web Safe Fonts](https://websitesetup.org/web-safe-fonts-html-css/)
+* [Web Safe Fonts](https://websitesetup.org/web-safe-fonts-html-css/)
 * [CSS Units](https://www.w3schools.com/cssref/css_units.asp)
 * [The Float Property](https://www.w3schools.com/css/css_float.asp)
 * [Inline v. Inline Block](https://alligator.io/css/display-inline-vs-inline-block/)
