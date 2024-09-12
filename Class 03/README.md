@@ -31,7 +31,7 @@
 * Code along- Building Google's homepage with CSS
 
 ## Assignment
-Take the mockup you made with your Craigslist redesign assignment and recreate it with HTML and CSS. Don't worry about adding any interactivity such as dropdown menus or linking to any other pages. Upload your zip folder containing an html file, a css file, and any image files you used.
+Take the mockup you made with your Craigslist redesign assignment and recreate it with HTML and CSS. Don't worry about adding any interactivity such as dropdown menus or linking to any other pages.
 
 ## Learning Log suggestions for this week:
 * CSS div/span, class/id
