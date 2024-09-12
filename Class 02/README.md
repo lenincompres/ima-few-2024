@@ -38,7 +38,7 @@
   * Fill in the gaps on anything they got wrong. What, if anything, is confusing about your wireframes?
   * Discuss why you chose the content you included on the homepage and what you left out
   * Repeat with the other team's drawings
-* Design Overview [Slides](https://docs.google.com/presentation/d/1_aujQAcw3I2czV-PYn5XEX3Dicra2szamLIHCmd1eRg/edit?usp=sharing)
+* Design Overview [Slides](https://docs.google.com/presentation/d/19dB_qW3_2Yd2VRisr23k1FAjlCdltZ1Fxw0sR6s-GfU/edit#slide=id.g6e80a5aac3_0_237)
   * [10 Basics of Visual Design](https://blog.prototypr.io/10-basic-principles-of-visual-design-55b86b9f7241)
   * Grids and layout
   * [Grid Theory](https://www.creativebloq.com/web-design/grid-theory-41411345)
