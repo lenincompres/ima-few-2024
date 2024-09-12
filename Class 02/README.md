@@ -1,5 +1,4 @@
 # Part 1 - UX
-* HTML questions & Review?
 * Principles of UX: [Slides](https://docs.google.com/presentation/d/1aVbkrPL1YbHsQaoPYALGYZ2d6OKiW08qcBSnzkwsMys/)
   * Information Architecture
     * Organize content into a hierarchical structure
@@ -79,3 +78,4 @@
   * [5 Key Principles for New UX Designers](https://careerfoundry.com/en/blog/ux-design/5-key-principles-for-new-ux-designers/)
   * [User Experience of a Heartbreak](https://www.fastcompany.com/3036536/this-is-the-user-experience-of-a-heartbreak)
 * Create a Learning Log from one (or several) of this week's readings
+* Set up Office Hourse for any HTML questions or Review
