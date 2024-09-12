@@ -1,6 +1,5 @@
 # Part 1 - UX
 * HTML questions & Review?
-* Mini-presentations on design inspiration
 * Principles of UX: [Slides](https://docs.google.com/presentation/d/1aVbkrPL1YbHsQaoPYALGYZ2d6OKiW08qcBSnzkwsMys/)
   * Information Architecture
     * Organize content into a hierarchical structure
@@ -15,8 +14,9 @@
     * Simplicity and white space
     * [Make sites scannable](https://uxplanet.org/ux-design-practices-how-to-make-web-interface-scannable-2010125c710e)
   * Follow users expectations
+  * Test early and often, iterate 
+* Mini-presentations on design inspiration
 * [The Worst Volume Control UI in the World](https://uxdesign.cc/the-worst-volume-control-ui-in-the-world-60713dc86950)
-* Test early and often, iterate
 * In-class assignment: Work with a partner to create a wireframe for a better [Craigslist homepage](https://newyork.craigslist.org/)
   * Choose which information is available on or navigatable to from the home page
   * Create a diagram of your sitemap for pages that link directly from the homepage (one level deep)
