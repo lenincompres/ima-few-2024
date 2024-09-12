@@ -30,7 +30,7 @@
 Midterm Proposal Presentations
 
 # HOMEWORK
-* Due a learning log on CSS Pseudo Elements/Selectors, Animation or Transition
+* Learning log on CSS Pseudo Elements/Selectors, Animation or Transition
 * General Midterm check in:
   * Remember you need 10 Learning Logs completed by the end of the semester. At this point you should have about 5.
 Double check and make sure you have turned in all assignments. Do learning logs and schedule office hours if you are stuck!
