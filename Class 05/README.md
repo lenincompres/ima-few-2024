@@ -1,4 +1,4 @@
-# Part 1
+# Part 1 - Dynamic CSS
 * Learning Log Presentations & questions
 * Learn
   * [Today's slides](https://docs.google.com/presentation/d/1cpkMkDLG-rB9t58p8qbGq6aWZGjLzKiP5fKVustM7nQ/edit?usp=sharing)
@@ -26,7 +26,7 @@
   * User Experience: 10 points
   * Visual design: 5 points
   * Connection to Github / Github Pages: 5 points
-# Part 2
+# Part 2 - Midterm Proposal Presentations
 Midterm Proposal Presentations
 
 # HOMEWORK
