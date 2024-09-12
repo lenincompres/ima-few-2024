@@ -24,15 +24,12 @@
 
 # PART 2 - CSS Continuation
 
-* CSS Questions
-  * Fonts
-    * [Web Safe Fonts](https://websitesetup.org/web-safe-fonts-html-css/)
-  * [CSS Units](https://www.w3schools.com/cssref/css_units.asp)
-  * [The Float Property](https://www.w3schools.com/css/css_float.asp)
-  * [Inline v. Inline Block](https://alligator.io/css/display-inline-vs-inline-block/)
-* Remaining Craigslist Redesign Presentations
+* Fonts
+  * [Web Safe Fonts](https://websitesetup.org/web-safe-fonts-html-css/)
+* [CSS Units](https://www.w3schools.com/cssref/css_units.asp)
+* [The Float Property](https://www.w3schools.com/css/css_float.asp)
+* [Inline v. Inline Block](https://alligator.io/css/display-inline-vs-inline-block/)
 * Code along- Building Google's homepage with CSS
-  * [Link to Code Pen](https://codepen.io/callihiggins/pen/rNVxgqB)
 
 ## Assignment
 Take the mockup you made with your Craigslist redesign assignment and recreate it with HTML and CSS. Don't worry about adding any interactivity such as dropdown menus or linking to any other pages. Upload your zip folder containing an html file, a css file, and any image files you used.
