@@ -15,8 +15,6 @@
     * [The Worst Volume Control UI in the World](https://uxdesign.cc/the-worst-volume-control-ui-in-the-world-60713dc86950)
   * Follow users expectations
   * Test early and often, iterate 
-* Mini-presentations on design inspiration
-  * Let's view/critique/analyse these using the terms we just discussed
 * In-class assignment: Work with a partner to create a wireframe for a better [Craigslist homepage](https://newyork.craigslist.org/)
   * Choose which information is available on or navigatable to from the home page
   * Create a diagram of your sitemap for pages that link directly from the homepage (one level deep)
@@ -67,6 +65,9 @@
       * [Google Slides](https://docs.google.com/presentation/u/0/)
       * [Figma](https://www.figma.com/)
       * [Gimp](https://www.gimp.org/)
+     
+* Mini-presentations on design inspiration
+  * Let's view/critique/analyse these using the terms we just discussed
 
 ## Homework
 * Finish your in-class assignment. If your wireframe and sitemap are hand drawn, be sure to scan them or take a photo of them. Be prepared to present your idea in class and explain your choices.
