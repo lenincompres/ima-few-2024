@@ -13,10 +13,11 @@
     * Expose your features
     * Simplicity and white space
     * [Make sites scannable](https://uxplanet.org/ux-design-practices-how-to-make-web-interface-scannable-2010125c710e)
+    * [The Worst Volume Control UI in the World](https://uxdesign.cc/the-worst-volume-control-ui-in-the-world-60713dc86950)
   * Follow users expectations
   * Test early and often, iterate 
 * Mini-presentations on design inspiration
-* [The Worst Volume Control UI in the World](https://uxdesign.cc/the-worst-volume-control-ui-in-the-world-60713dc86950)
+  * Let's view/critique/analyse these using the terms we just discussed
 * In-class assignment: Work with a partner to create a wireframe for a better [Craigslist homepage](https://newyork.craigslist.org/)
   * Choose which information is available on or navigatable to from the home page
   * Create a diagram of your sitemap for pages that link directly from the homepage (one level deep)
