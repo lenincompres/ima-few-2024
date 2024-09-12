@@ -21,7 +21,6 @@
     * Refer to this [W3 Schools guide](https://www.w3schools.com/css/css_navbar.asp)
     * Its ok if the links in the menu do not go anywhere
   * Feel free to add any additional CSS styling you desire.
-  * Upload your index.html and style.css file to CodePen.
 
 # PART 2 - CSS Continuation
 
