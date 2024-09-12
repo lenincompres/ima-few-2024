@@ -61,9 +61,9 @@ Classes include lectures, discussions, tutorials, homework reviews, presentation
   - 5-minute presentation on a Learning Log.
   - Share your learning journey, your web finds and your comments on our GChat Space.
   - Meet the instructor for [office ours](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3QG2_4dV8WaqqEWGbWKz9MEhIOISzeb-frVA7O1RNNY7Xgdz3Rs851-sV43AskNzUBsRnd_7Pp).
-- **Mid-Term Project (25%)**
+- **Mid-Term Project (20%)**
   - Demonstrates knowledge of website design and responsive HTML/CSS.
-- **Final Project (25%)**
+- **Final Project (30%)**
   - A comprehensive project built over several weeks, involving both technology and content.
 
 ## Attendance Policy
