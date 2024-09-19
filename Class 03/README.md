@@ -40,6 +40,6 @@ Take the mockup you made with your Craigslist redesign assignment and recreate i
 * CSS alignment
 * [CSS box model](https://css-tricks.com/the-css-box-model/)
 * [CSS Positioning 101](http://alistapart.com/article/css-positioning-101)
-* [CSS Advanced Positioning](https://internetingishard.com/html-and-css/advanced-positioning/)
+* [CSS Advanced Positioning](https://internetingishard.netlify.app/html-and-css/advanced-positioning/)
 * [Collection of CSS Beginner Tutorials](https://css-tricks.com/guides/beginner/)
 * [Collection of CSS Intermediate Tutorials](https://www.htmldog.com/guides/css/intermediate/)
