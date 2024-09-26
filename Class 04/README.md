@@ -6,7 +6,6 @@
     * Beautify
     * File > Autosave
     * [HTML Boilerplate](https://marketplace.visualstudio.com/items?itemName=sidthesloth.html5-boilerplate)
-      * Contemplate AI
 * Intro to [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
   * Play	[Flexbox Froggy!](https://flexboxfroggy.com/)
 * Extra time? Checkout out Grid:
