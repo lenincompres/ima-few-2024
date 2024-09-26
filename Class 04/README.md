@@ -19,8 +19,8 @@
   * Sign up for a Github account
   * Download Github Desktop
     * [Creating your first repository using GitHub Desktop](https://help.github.com/en/desktop/getting-started-with-github-desktop/creating-your-first-repository-using-github-desktop) Terms to know: Repository/Repo, Commit, Push, Master
-    * [Preview html](https://htmlpreview.github.io/?)
     * [Github Pages](https://pages.github.com/) (available under Settings in your Repo)
+    * [Preview html](https://htmlpreview.github.io/?)
 When you push your code for the first time from Github Desktop, make sure you uncheck "Keep this code private"
 * Media Queries
   * Mobile Design considerations
