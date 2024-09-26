@@ -4,7 +4,7 @@
   * Install and add packages:
     * Live server
     * Beautify
-    * File -> Autosave
+    * File > Autosave
     * [HTML Boilerplate](https://marketplace.visualstudio.com/items?itemName=sidthesloth.html5-boilerplate)
       * Contemplate AI
 * Intro to [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
