@@ -1,27 +1,28 @@
 # Part 1
 Let's make a web app
 * OOP review and DOM modification in class exercise
-  * [Deck of cards wepApp](https://github.com/lenincompres/ima-front-end-web/tree/main/projects/cardDeck), follow along
+  * [Deck of cards wepApp](cardDeck/), follow along
 * This exercise covers:
-  * iterating through arrays
+  * Iterating through arrays
     * for(... of ...)
-  * accessing DOM element
+  * Accessing DOM element
     * defer, ids, appendChild
     * content: innerHTML, innerText
     * events: onclick
     * classes: classList
     * style: color
-  * object methods
+  * Object methods
     * cardArray.sort()
     * cardArray.slice()
     * Math.random()
-  * classes
+  * Classes
     * constructor, methods: card.flip()
     * static properties
     * module, import
     * properties: isFace
-  * waiting: setTimeOut
-  * asynchronous functions: async, wait
+  * Asynchronous functions
+    * setTimeOut
+    * async, await
 
 # Part 2
 * setTimeOut
