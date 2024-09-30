@@ -6,7 +6,8 @@ Let's make a web app
   * Iterating through arrays
     * for(... of ...)
   * Accessing DOM element
-    * defer, ids, appendChild
+    * defer
+    * elements: getElementById, appendChild
     * content: innerHTML, innerText
     * events: onclick
     * classes: classList
