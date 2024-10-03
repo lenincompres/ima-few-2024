@@ -19,9 +19,11 @@
   * Sign up for a Github account
   * Download Github Desktop
     * [Creating your first repository using GitHub Desktop](https://help.github.com/en/desktop/getting-started-with-github-desktop/creating-your-first-repository-using-github-desktop) Terms to know: Repository/Repo, Commit, Push, Master
+    * When you push your code for the first time from Github Desktop, make sure you uncheck "Keep this code private"
     * [Github Pages](https://pages.github.com/) (available under Settings in your Repo)
     * [Preview html](https://htmlpreview.github.io/?)
-When you push your code for the first time from Github Desktop, make sure you uncheck "Keep this code private"
+      * Just enter the **permalink** of the folder or html page you want to preview.
+      * ![image](https://github.com/user-attachments/assets/774747f7-fc78-457c-9c56-4055279059be)
 * Media Queries
   * Mobile Design considerations
     * Minimize cognitive load even more
