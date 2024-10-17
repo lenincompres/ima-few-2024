@@ -1,0 +1,62 @@
+header {
+  background-color: wheat;
+  border: dashed black 0.1em;
+  border-left-width: 1em;
+  padding: 1em;
+  height: 1em;
+  transition: background-color .5s, height 1s;
+  -webkit-transition:;
+  -moz-transition:;
+  -ms-transition:;
+  -o-transition:;
+}
+
+header:hover{
+  background-color: brown;
+  height: 4em;
+}
+
+header:hover a{
+  color: wheat;
+}
+
+header a::before{
+  content: "-";
+  display: inline-block;
+  background-color: brown;
+  margin: 0.5em;
+  width: 1em;
+  border-radius: 1em;
+  -webkit-border-radius: 1em;
+  -moz-border-radius: 1em;
+  -ms-border-radius: 1em;
+  -o-border-radius: 1em;
+}
+
+header a:first-child::before{
+  display: none;
+}
+
+a {
+  text-decoration: none;
+  color: navy;
+}
+
+footer a {
+  color: skyblue;
+}
+
+article {
+  padding: 2em;
+}
+
+article progress a {
+  background-color: yellow;
+}
+
+footer {
+  background-color: black;
+  height: 1em;
+  padding: 1em;
+  color: white;
+}

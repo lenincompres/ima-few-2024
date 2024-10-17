@@ -1,0 +1,10 @@
+body {
+  background-color: wheat;
+}
+
+#displayText {
+  background-color: white;
+  margin: 1em 0;
+  padding: 1em;
+  box-shadow: inset 1px 1px 3px black;
+}
