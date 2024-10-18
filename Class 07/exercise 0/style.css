@@ -8,3 +8,14 @@ body {
   padding: 1em;
   box-shadow: inset 1px 1px 3px black;
 }
+
+#maxNumInput {
+  width: 3em;
+}
+
+#settingsSection {
+  position: fixed;
+  top: 0;
+  right: 0;
+  margin: 1em;
+}
