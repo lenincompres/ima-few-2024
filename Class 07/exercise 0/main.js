@@ -46,5 +46,13 @@ clearButton.onclick = function(){
 
 bgColorInput.onchange = function(){
   document.body.style.backgroundColor = bgColorInput.value;
-  // Maybe if the color is too dark, the text should become white (for later)
+  
+  // Maybe if the color is too dark, the text should become white
+  let lightness = hexToLightness(bgColorInput.value);
+  console.log(lightness);
+  if(lightness < 50){
+    document.body.style.color = 'white';
+  } else {
+    document.body.style.color = 'black';
+  }
 }
