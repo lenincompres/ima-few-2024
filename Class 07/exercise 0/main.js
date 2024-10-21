@@ -29,6 +29,7 @@ function squares(val){
         The square of ${i} is: ${i * i}.
       </p>
     `;
+    // backtick quotes allow you to have character strings in multiple lines and incorporate variablea and code inside a markup: ${}
 
   }
 
