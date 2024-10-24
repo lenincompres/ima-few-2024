@@ -1,0 +1,59 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+
+body {
+  background-color: wheat;
+  padding: 0;
+  margin: 0;
+}
+
+body>header{
+  background-color: tan;
+  padding: 2em;
+  text-align: center;
+}
+
+input, button {
+  padding: 0.5em;
+}
+
+.box-area{
+  padding: 1em;
+  margin: 1em;
+  background-color: #fff8;
+}
+
+#petsDisplay{
+  display: flex;
+  flex-wrap: wrap;
+  min-height: 10em;
+}
+
+#petsDisplay>section{
+  margin: 1em;
+  padding: 1em;
+  border: solid 1px black;
+  background-color: white;
+}
+
+#petsDisplay>section>img{
+  width: 10em;
+  height: 10em;
+  object-fit: cover;
+}
+
+#ageInput{
+  width: 3em;
+}
+
+#pictureInput{
+  width: 30em;
+}
+
+.error{
+  border: solid 2px red;
+}
