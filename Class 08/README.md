@@ -14,10 +14,10 @@
   * Selecting classes, id, elements
   * Seeing innerHtml, classList on a node
   * Modifying the DOM
-  * Adjusting innerHtml, textContent on a node
-  * Add/Remove/Toggle classList
-  * createElement
-  * appendChild, replaceChild, insertBefore, insertAdjacent
+    * Adjusting innerHtml, textContent on a node
+    * classList: Add/Remove/Toggle
+    * createElement
+    * appendChild, replaceChild, insertBefore, insertAdjacent
   * Listening to events
     * [DOM Events](https://www.w3schools.com/jsref/dom_obj_event.asp)
 
