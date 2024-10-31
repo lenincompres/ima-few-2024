@@ -35,7 +35,7 @@ function addNewPet(){
   }
 
   let petSection = document.createElement('section');
-
+  
   petSection.innerHTML += `
     <h2>${nameInput.value}</h2>
     <img src="${pictureInput.value}" alt="${nameInput.value}'s picture"/>

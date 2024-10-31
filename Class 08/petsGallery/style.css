@@ -93,15 +93,14 @@ input, button{
 
 #petsGalleryMain {
   background-color: white;
-  min-height: 10em;
+  min-height: 5em;
   margin: 1em;
   padding: 1em;
-  display: flex;
-  flex-wrap: wrap;
 }
 
 #petsGalleryMain>section{
   margin: 1em;
+  float:left;
 }
 
 
