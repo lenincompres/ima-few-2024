@@ -44,8 +44,6 @@ Let's make a web app
   * [Google Fact Checker](https://developers.google.com/fact-check/tools/api)
 
 ## HOMEWORK
-* Assignment: your choice!
-  * Create your own playground with at least 5 DOM elements, 3 listeners (onclick, onchange, etc.) and 2 functions besides initialization (set up). Link to your Github Repo AND Github Pages URL.
-  * Or, create a single web page that uses AJAX (fetch);  to load and display data from one of The New York Times APIs. Your page should also include at least one form of "user interaction".
-  * Bonus: Use Github Desktop to create a new branch in your midterm project. Link to the branch's Github Repo.
-* Prepare a presentation for your Final Project idea. Your presentation should be shareable. Include a moodboard, site map, and wireframes. The final assignment is similar to the midterm in that you are expected to have a complete idea and a reason for why you want to make this. You are responsible for making a web application that is thoughtfully designed and built for a responsive experience and utilizes at least one API to populate data or introduce a service to your app. This API can be from a content management system (CMS) powering a personal portfolio. You are allowed to continue work on your midterm project (but I expect to see a significant update) or pivot to a new idea.
+* Assignment: 
+  *  Create your own playground with at least 5 DOM elements, 3 listeners (onclick, onchange, etc.) and 2 functions. Link to your Github Repo AND Github Pages URL. Be mindful of your UI/UX.
+  *  Do the exercises on [chapters 18](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter18.md). Read [chapter 20](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter20.md) and [chapter 21](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter21.md). As a bonus, try the **Famous paintings** exercise on chapter 21.
