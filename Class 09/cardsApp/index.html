@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
 
-  <link type="style" href="style.css">
+  <link rel="stylesheet" href="style.css"/>
   <script src="main.js" defer></script>
 
 </head>
@@ -15,15 +15,13 @@
     <h1>Deck of Cards</h1>
     <p>Flip the cards</p>
     <menu>
-      <button>Flip All</button>
-      <button>Show All</button>
-      <button>Hide All</button>
-      <button>Shuffle</button>
+      <button id="flipAllButton">Flip All</button>
+      <button id="showAllButton">Show All</button>
+      <button id="hideAllButton">Hide All</button>
+      <button id="shuffleButton">Shuffle</button>
     </menu>
   </header>
-  <article>
-    <section>A♠</section>
-    <section>2♠</section>
+  <article id="deckArticle">
   </article>
   <footer>
     <p>Created by Lenin Compres for IMA Front-end Web</p>
