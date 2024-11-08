@@ -2,7 +2,19 @@
 
 ## Topic:
 
-Fetch. [What is an API?](https://medium.com/@perrysetgo/what-exactly-is-an-api-69f36968a41f). Parsing CSV: [Data World](https://data.world/).
+* In class Exercises
+
+  * How Many People Are In Space Right Now?
+    * [API URL](http://api.open-notify.org/astros.json)
+    * [weppApp exercise](https://github.com/lenincompres/ima-front-end-web/tree/main/projects/api/1-astros)
+  * Wikipedia search
+    * [API URL](http://en.wikipedia.org/w/api.php?action=opensearch&format=json&search=query)
+    * [weppApp exercise](https://github.com/lenincompres/ima-front-end-web/tree/main/projects/api/2-wikipedia)
+* Other API resources
+
+  * [NY Times API](http://developer.nytimes.com/)
+  * [15 fun API](https://medium.com/codex/15-fun-and-interesting-apis-to-use-for-your-next-coding-project-in-2022-86a4ff3a2742)
+  * [Google Fact Checker](https://developers.google.com/fact-check/tools/api)
 
 ## Activities:
 

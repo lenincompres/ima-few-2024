@@ -1,9 +1,9 @@
 const SPADE = "♠";
-const HEART = "♠";
-const CLUB = "♠";
-const DIAMOND = "♠";
+const HEART = "♥";
+const CLUB = "♣";
+const DIAMOND = "♦";
 
-let suits = [SPADE, HEART, CLUB, "♦"];
+let suits = [SPADE, HEART, CLUB, DIAMOND];
 
 let chars = ["A", "2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K"];
 

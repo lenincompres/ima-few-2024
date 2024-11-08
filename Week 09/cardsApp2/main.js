@@ -1,5 +1,9 @@
-import Card from "./Card.js";
+/**
+ * Declaring your aoo entry code (main.js) as being of type "module", allows you to import other js files in your folder, without creating the link in the HTML.
+ * This files you import, should have exportable variables (classes, methods, constants), you are going to use in yout code.
+ */
 
+import Card from "./Card.js";
 
 let cards = [];
 
@@ -34,6 +38,6 @@ shuffleButton.onclick = () => {
     return Math.random() > 0.5 ? 1 : -1;
   });
   for(let card of cards){
-    deckArticle.append(cards);
+    deckArticle.append(card);
   }
 }
