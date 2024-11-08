@@ -1,56 +1,39 @@
-const SPADE = "♠";
-const HEART = "♠";
-const CLUB = "♠";
-const DIAMOND = "♠";
+import Card from "./Card.js";
 
-let suits = [SPADE, HEART, CLUB, DIAMOND];
 
-let chars = ["A", "2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K"];
+let cards = [];
 
-let colorMap = {
-  [SPADE]: "darkslateblue",
-  [HEART]: "brown",
-  [CLUB]: "teal",
-  [DIAMOND]: "darkgoldenrod",
-};
-
-let cardElements = [];
-
-for(let suit of suits){
-  for(let char of chars){
-    let elt = document.createElement("section");
-    elt.innerHTML = char + suit;
-    elt.classList.add("card");
-    elt.style.color = colorMap[suit];
-    elt.onclick = () => elt.classList.toggle("flipped");
-    deckArticle.append(elt);
-    cardElements.push(elt);
+for(let suit of Card.suits){
+  for(let char of Card.chars){
+    let myCard = new Card(char, suit);
+    deckArticle.append(myCard);
+    cards.push(myCard);
   }
 }
 
 flipAllButton.onclick = () => {
-  for(let cardElement of cardElements){
-    cardElement.classList.toggle("flipped");
+  for(let card of cards){
+    card.flip();
   }
 }
 
 showAllButton.onclick = () => {
-  for(let cardElement of cardElements){
-    cardElement.classList.remove("flipped");
+  for(let card of cards){
+    card.show();
   }
 }
 
 hideAllButton.onclick = () => {
-  for(let cardElement of cardElements){
-    cardElement.classList.add("flipped");
+  for(let card of cards){
+    card.hide();
   }
 }
 
 shuffleButton.onclick = () => {
-  cardElements.sort(() => {
+  cards.sort(() => {
     return Math.random() > 0.5 ? 1 : -1;
   });
-  for(let cardElement of cardElements){
-    deckArticle.append(cardElement);
+  for(let card of cards){
+    deckArticle.append(cards);
   }
 }
