@@ -1,3 +1,4 @@
+
 fetch("cats.json").then(response => {
   return response.json();
 }).then(data => {
@@ -13,9 +14,24 @@ fetch("cats.json").then(response => {
   }
 
   selectElement.onchange = () => {
-    wikipediaFrame.setAttribute("src", "https://en.wikipedia.org/wiki/" + selectElement.value + " cat");
+    wikipediaFrame.src = "https://en.wikipedia.org/wiki/" + selectElement.value + " cat";
   };
-
+}).catch(error => {
+  console.error(error);
 });
 
 document.body.style.backgroundColor = "lime";
+
+
+/**
+ * Grabbing an image with fetch
+ */
+
+const picURL = "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/British_burmese_-_Andel_Alois_at_Cat_show.JPG/220px-British_burmese_-_Andel_Alois_at_Cat_show.JPG";
+
+fetch(picURL).then(response => {
+  return response.blob();
+}).then(blob => {
+  const url = URL.createObjectURL(blob);
+  document.body.style.backgroundImage = `url(${url})`; 
+});
