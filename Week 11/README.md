@@ -1,13 +1,33 @@
-# Frameworks (DOM.js, React.js)
+# Project proposals and Digital Accessibility
 
-## Topic:
+* **Objective** : Understand digital accessibility and learn how to create inclusive websites that accommodate all users, including those with disabilities.
+* **Key Concepts** :
+  * Introduction to WCAG (Web Content Accessibility Guidelines) standards.
+  * Accessible design principles (e.g., color contrast, keyboard navigation, screen reader compatibility).
+  * Tools and techniques for evaluating and improving website accessibility.
 
-[DOM.js](https://github.com/lenincompres/DOM.js) This library allows us to modify the DOM and HTML elements using Javascript Object notation. [Custom HTML elements](https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_custom_elements). React—[Slides](https://docs.google.com/presentation/d/1aQNCj3VdbZ0y825Ghm2uSrGT3BGLA70XFIBNehwLWno/edit#slide=id.g29babf51088_0_25), [CreateReactApp tutorial](https://www.taniarascia.com/getting-started-with-react/).
+#### **Resources** :
 
-## Activities:
+1. **Readings and Guidelines** :
+   * [W3C Web Content Accessibility Guidelines (WCAG 2.1)](https://www.w3.org/WAI/standards-guidelines/wcag/)
+   * [WebAIM - Introduction to Web Accessibility]()
+   * [Accessible Design Principles by A11Y Project](https://www.a11yproject.com/)
+2. **Tools** :
+   * **WAVE Accessibility Evaluation Tool** : Test sites for accessibility compliance.
+   * **Axe Chrome Extension** : Browser tool to analyze accessibility issues.
+   * **Color Contrast Checker** : Ensure text and background colors meet WCAG contrast standards.
+3. **Tutorials** :
+   * **Mozilla - Accessibility** : Guide on implementing accessibility in HTML, CSS, and JavaScript.
+   * **WebAIM - Keyboard Accessibility** : Learn to make websites fully operable via keyboard.
 
-[Generic Food App](https://github.com/lenincompres/ima-front-end-web/tree/main/projects/csv/1-food)
+#### **Activity** :
 
-## Assignment:
-
-Have you done all 10 learning logs? Are you caught up on all your assignments? Now is the time! Work on your final projects! Resolve to have your data pulled out from your API and injected in your HTML by the end of the weekend. Think of your final project in terms of Components/Element classes if any apply.
+1. **Lecture and Discussion** :
+   * Discuss why digital accessibility matters and review real-life examples of accessible vs. inaccessible websites.
+   * Explore WCAG standards and the legal implications of non-compliance.
+2. **Hands-On Workshop** :
+   * **Accessibility Audit** : Pair up with a classmate to conduct an audit of an existing website (e.g., a popular e-commerce site) using WAVE and Axe tools.
+   * **Report Findings** : Identify specific accessibility issues (e.g., missing alt text, low contrast, keyboard traps) and suggest improvements.
+   * **Remediation Exercise** : Each team picks two or three accessibility issues to fix on a simple HTML/CSS page.
+3. **Reflection and Learning Log** :
+   * Add entries on accessibility concepts learned, audit findings, and reflections on the importance of inclusive design.
