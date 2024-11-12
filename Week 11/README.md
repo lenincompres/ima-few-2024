@@ -4,7 +4,15 @@
 * **Key Concepts** :
   * Introduction to WCAG (Web Content Accessibility Guidelines) standards.
   * Accessible design principles (e.g., color contrast, keyboard navigation, screen reader compatibility).
+  * Screen readers demo.
   * Tools and techniques for evaluating and improving website accessibility.
+    * Heading order
+    * HTML lang
+    * Heading order
+    * Contrast
+    * Alt-text
+    * Accessible fonts
+    * Text in images!
 
 #### **Resources** :
 
