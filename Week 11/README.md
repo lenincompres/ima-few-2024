@@ -12,10 +12,13 @@
    * [W3C Web Content Accessibility Guidelines (WCAG 2.1)](https://www.w3.org/WAI/standards-guidelines/wcag/)
    * [WebAIM - Introduction to Web Accessibility]()
    * [Accessible Design Principles by A11Y Project](https://www.a11yproject.com/)
+     * [Checklist](https://www.a11yproject.com/checklist/)
 2. **Tools** :
    * **WAVE Accessibility Evaluation Tool** : Test sites for accessibility compliance.
    * **Axe Chrome Extension** : Browser tool to analyze accessibility issues.
    * **Color Contrast Checker** : Ensure text and background colors meet WCAG contrast standards.
+     * [RandomA11y](https://randoma11y.com/)
+   * [Inclusive-Components](https://inclusive-components.design/)
 3. **Tutorials** :
    * **Mozilla - Accessibility** : Guide on implementing accessibility in HTML, CSS, and JavaScript.
    * **WebAIM - Keyboard Accessibility** : Learn to make websites fully operable via keyboard.
