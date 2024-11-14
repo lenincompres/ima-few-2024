@@ -45,3 +45,14 @@
    * Add entries on accessibility concepts learned, audit findings, and reflections on the importance of inclusive design.
 
 ## Part 2: Project Proposals
+
+Each student will have 5 minutes to explain their idea (or ideas) for the final project.
+  *  What would you like to accomplish?
+  *  What Were your inspirations?
+  *  Share your design (UX/UI) ideas: moodboard, sitemap, wireframes.
+  *  What API, data, and resources would you incorporate?
+
+# Assigment
+
+  * Revisit your midterm project, and audit them using AXE, WAVE, or other accessibility tools. Document the issues you found and how did you address them. Share your revised project version and document it on your learning logs.
+  * 
