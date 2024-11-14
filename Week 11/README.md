@@ -18,7 +18,6 @@
 
 1. **Readings and Guidelines** :
    * [W3C Web Content Accessibility Guidelines (WCAG 2.1)](https://www.w3.org/WAI/standards-guidelines/wcag/)
-   * [WebAIM - Introduction to Web Accessibility]()
    * [Accessible Design Principles by A11Y Project](https://www.a11yproject.com/)
      * [Checklist](https://www.a11yproject.com/checklist/)
 2. **Tools** :
