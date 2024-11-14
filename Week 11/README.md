@@ -52,7 +52,7 @@ Each student will have 5 minutes to explain their idea (or ideas) for the final 
   *  Share your design (UX/UI) ideas: moodboard, sitemap, wireframes.
   *  What API, data, and resources would you incorporate?
 
-# Assigment
+### Assignment
 
-  * Revisit your midterm project, and audit them using AXE, WAVE, or other accessibility tools. Document the issues you found and how did you address them. Share your revised project version and document it on your learning logs.
-  * 
+  * Revisit your midterm project, and audit them using AXE, WAVE, or other accessibility tools. Document the issues you found, and how did you address them. Share the revised version of your midterm project and document it on your learning logs.
+  * Go through the coding train's [Working with Data and APIs in JavaScript](https://thecodingtrain.com/tracks/data-and-apis-in-javascript)—watch it all the wai through. Check out the section on Server side development with the SELFIE and WEATHER apps.
