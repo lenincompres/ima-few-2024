@@ -1,5 +1,7 @@
 # Project proposals and Digital Accessibility
 
+## Part 1: Digital Accessibility
+
 * **Objective** : Understand digital accessibility and learn how to create inclusive websites that accommodate all users, including those with disabilities.
 * **Key Concepts** :
   * Introduction to WCAG (Web Content Accessibility Guidelines) standards.
@@ -14,7 +16,7 @@
     * Accessible fonts
     * Text in images!
 
-#### **Resources** :
+### **Resources** :
 
 1. **Readings and Guidelines** :
    * [W3C Web Content Accessibility Guidelines (WCAG 2.1)](https://www.w3.org/WAI/standards-guidelines/wcag/)
@@ -30,7 +32,7 @@
    * **Mozilla - Accessibility** : Guide on implementing accessibility in HTML, CSS, and JavaScript.
    * **WebAIM - Keyboard Accessibility** : Learn to make websites fully operable via keyboard.
 
-#### **Activity** :
+### **Activity** :
 
 1. **Lecture and Discussion** :
    * Discuss why digital accessibility matters and review real-life examples of accessible vs. inaccessible websites.
@@ -41,3 +43,5 @@
    * **Remediation Exercise** : Each team picks two or three accessibility issues to fix on a simple HTML/CSS page.
 3. **Reflection and Learning Log** :
    * Add entries on accessibility concepts learned, audit findings, and reflections on the importance of inclusive design.
+
+## Part 2: Project Proposals
