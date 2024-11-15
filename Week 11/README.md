@@ -48,7 +48,7 @@
 
 Each student will have 5 minutes to explain their idea (or ideas) for the final project.
   *  What would you like to accomplish?
-  *  What Were your inspirations?
+  *  What were your inspirations?
   *  Share your design (UX/UI) ideas: moodboard, sitemap, wireframes.
   *  What API, data, and resources would you incorporate?
 
