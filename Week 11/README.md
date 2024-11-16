@@ -54,5 +54,5 @@ Each student will have 5 minutes to explain their idea (or ideas) for the final 
 
 ### Assignment
 
-  * Revisit your midterm project, and audit them using Axe, WAVE, Lighthouse, or other accessibility tools. Document the issues you found, and how did you address them. Share the revised version of your midterm project and document it on your learning logs.
+  * Revisit your midterm project, and audit it using Axe, WAVE, Lighthouse, or other accessibility tools. Document the issues you found, and how did you address them. Share the revised version of your midterm project and document it on your learning logs.
   * Go through the coding train's [Working with Data and APIs in JavaScript](https://thecodingtrain.com/tracks/data-and-apis-in-javascript)—watch it all the wai through. Check out the section on Server side development with the SELFIE and WEATHER apps.
