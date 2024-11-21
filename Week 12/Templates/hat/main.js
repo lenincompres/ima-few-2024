@@ -8,6 +8,13 @@ async function loadHTML(url, container){
   container.innerHTML = await response.text();
 }
 
+loadHTML('./templates/home.html', mainContent);
+
+pageTitle.onclick = () => {
+  loadHTML('./templates/home.html', mainContent);
+  markLinkSelected();
+};
+
 aboutNav.onclick = () => {
   loadHTML('./templates/about.html', mainContent);
   markLinkSelected(aboutNav);
@@ -18,7 +25,7 @@ projectsNav.onclick = () => {
   markLinkSelected(projectsNav);
 };
 
-contactNav.onclick = () => loadContent('contact', contactNav);
+contactNav.onclick = () => {};
 
 let selectedLink;
 function markLinkSelected(link) {
@@ -28,10 +35,3 @@ function markLinkSelected(link) {
   link.classList.add("selected");
   selectedLink = link;
 }
-
-
-pageTitle.onclick = () => {
-  loadHTML('./templates/home.html', mainContent);
-  markLinkSelected();
-};
-loadHTML('./templates/home.html', mainContent);
