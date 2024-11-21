@@ -5,10 +5,12 @@
 * [DOM.js](https://github.com/lenincompres/DOM.js) This library allows us to modify the DOM and HTML elements using Javascript Object notation.
 * [Custom HTML elements](https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_custom_elements).
 * [CreateReactApp tutorial](https://www.taniarascia.com/getting-started-with-react/).
+  * [Mosh's React Tutorial for Beginners](https://www.youtube.com/watch?v=SqcY0GlETPk).
 
 ## Activities:
 
 [Generic Food App](https://github.com/lenincompres/ima-front-end-web/tree/main/projects/csv/1-food)
+
 
 ## Assignment:
 
