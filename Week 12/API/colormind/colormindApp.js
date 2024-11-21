@@ -11,6 +11,9 @@ async function getModels(){
     modelSelect.appendChild(option);
   }
 }
+getModels();
+
+generateButton.onclick = () => generatePalette();
 
 async function generatePalette(){
   const mainColor = this.hexToRgb(mainColorInput.value);
@@ -31,17 +34,9 @@ async function generatePalette(){
     body: JSON.stringify(data),
   };
   const response = await fetch(url, request).catch(err => console.error(err));
-
   const jsonData = await response.json();
-  console.log(jsonData);
 
-  showPalette(jsonData.result);
-  console.log(response);
-
-}
-
-
-function showPalette(colors){
+  const colors = jsonData.result;
   paletteMain.innerHTML = "";
   for(let color of colors){
     let div  = document.createElement("div");
@@ -53,18 +48,11 @@ function showPalette(colors){
 }
 
 // Auxiliary functions
-
 function hexToRgb(hex) {
   var result = /^#?([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})$/i.exec(hex);
   return result ? {
     r: parseInt(result[1], 16),
     g: parseInt(result[2], 16),
-    b: parseInt(result[3], 16)
+    b: parseInt(result[3], 16),
   } : null;
 }
-
-//
-
-getModels();
-
-generateButton.onclick = () => generatePalette();

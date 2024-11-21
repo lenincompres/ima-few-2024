@@ -6,14 +6,14 @@ const token = 'BQAn1metQC_sEWxyRDLlz6l1EAo5lZlWyN-q3sJsSvl5hZpwWrmqnfL-jnO3hkkim
 */
 
 async function fetchWebApi(endpoint, method, body) {
-  const res = await fetch(`https://api.spotify.com/${endpoint}`, {
+  const response = await fetch(`https://api.spotify.com/${endpoint}`, {
     headers: {
       Authorization: `Bearer ${token}`,
     },
-    method,
+    method: method,
     body: JSON.stringify(body)
   });
-  return await res.json();
+  return await response.json();
 }
 
 async function getPlaylists(){
@@ -21,7 +21,7 @@ async function getPlaylists(){
   let response = await fetchWebApi( 'v1/users/me/playlists', 'GET')
   console.log(response);
 
-  let items = respose.tiems;
+  let items = response.tiems;
 }
 
 getPlaylists();

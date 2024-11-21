@@ -1,0 +1,89 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  background-color: dimgray;
+  flex-direction: column;
+  justify-content: stretch;
+  max-width: 60em;
+  margin: 0 auto;
+  padding: 1em;
+}
+
+a {
+  color: blue;
+}
+
+body>header {
+  background-color: lightgray;
+  padding: 0.5em;
+  text-align: center;
+}
+
+#mainContainer {
+  display: flex;
+  justify-content: center;
+  height: fit-content;
+  background-color: white;
+  flex-wrap: wrap;
+  padding: 1em;
+}
+
+#filterMenu{
+  margin: 1em;
+  width: 6em;
+  display: flex;
+  flex-direction: column;
+}
+
+food-item {
+  text-align: center;
+  background-color: lightgray;
+  margin: 0.5em;
+  padding: 1em;
+  border: solid 0.3em transparent;
+  cursor: pointer; 
+  border-radius: 1em;
+  -webkit-border-radius: 1em;
+  -moz-border-radius: 1em;
+  -ms-border-radius: 1em;
+  -o-border-radius: 1em;
+}
+
+food-item.selected {
+  color: blue;
+  border-color: blue;
+  box-shadow: 0 0 1em blue inset;
+}
+
+filter-button {
+  text-align: center;
+  cursor: pointer;
+  overflow: hidden;
+  width: 6em;
+  margin: 0.25em 0;
+  padding: 0.5em 0.8em;
+  text-overflow: ellipsis;
+  box-shadow: 1px 1px 3px black;
+  border-radius: 1em;
+  -webkit-border-radius: 1em;
+  -moz-border-radius: 1em;
+  -ms-border-radius: 1em;
+  -o-border-radius: 1em;
+}
+
+filter-button.selected {
+  box-shadow: 1px 1px 3px navy inset;
+  color: navy;
+}
+
+
+body>footer {
+  background-color: black;
+  color: white;
+  padding: 0.5em;
+}

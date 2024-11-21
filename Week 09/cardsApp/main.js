@@ -34,7 +34,8 @@ flipAllButton.onclick = () => {
   }
 }
 
-showAllButton.onclick = () => {
+let showBtn = document.getElementById("showAllButton");
+showBtn.onclick = () => {
   for(let cardElement of cardElements){
     cardElement.classList.remove("flipped");
   }
