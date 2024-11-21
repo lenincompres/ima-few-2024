@@ -14,4 +14,5 @@
 
 ## Assignment:
 
-Have you done all 10 learning logs? Are you caught up on all your assignments? Now is the time! Work on your final projects! Resolve to have your data pulled out from your API and injected in your HTML by the end of the weekend. Think of your final project in terms of Components/Element classes if any apply.
+* Have you done all 10 learning logs? Are you caught up on all your assignments? Now is the time! [Update you wiki page with the links to your logs](https://github.com/lenincompres/ima-few-2024/wiki).
+* Work on your final projects! Resolve to have your data pulled out from your API and injected in your HTML by the end of the weekend. Think of your final project in terms of Components/Element classes if any apply.
