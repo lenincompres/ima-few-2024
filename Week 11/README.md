@@ -1,5 +1,7 @@
 # Project proposals and Digital Accessibility
 
+## Part 1: Digital Accessibility
+
 * **Objective** : Understand digital accessibility and learn how to create inclusive websites that accommodate all users, including those with disabilities.
 * **Key Concepts** :
   * Introduction to WCAG (Web Content Accessibility Guidelines) standards.
@@ -14,11 +16,10 @@
     * Accessible fonts
     * Text in images!
 
-#### **Resources** :
+### **Resources** :
 
 1. **Readings and Guidelines** :
    * [W3C Web Content Accessibility Guidelines (WCAG 2.1)](https://www.w3.org/WAI/standards-guidelines/wcag/)
-   * [WebAIM - Introduction to Web Accessibility]()
    * [Accessible Design Principles by A11Y Project](https://www.a11yproject.com/)
      * [Checklist](https://www.a11yproject.com/checklist/)
 2. **Tools** :
@@ -31,7 +32,7 @@
    * **Mozilla - Accessibility** : Guide on implementing accessibility in HTML, CSS, and JavaScript.
    * **WebAIM - Keyboard Accessibility** : Learn to make websites fully operable via keyboard.
 
-#### **Activity** :
+### **Activity** :
 
 1. **Lecture and Discussion** :
    * Discuss why digital accessibility matters and review real-life examples of accessible vs. inaccessible websites.
@@ -42,3 +43,16 @@
    * **Remediation Exercise** : Each team picks two or three accessibility issues to fix on a simple HTML/CSS page.
 3. **Reflection and Learning Log** :
    * Add entries on accessibility concepts learned, audit findings, and reflections on the importance of inclusive design.
+
+## Part 2: Project Proposals
+
+Each student will have 5 minutes to explain their idea (or ideas) for the final project.
+  *  What would you like to accomplish?
+  *  What were your inspirations?
+  *  Share your design (UX/UI) ideas: moodboard, sitemap, wireframes.
+  *  What API, data, and resources would you incorporate?
+
+### Assignment
+
+  * Revisit your midterm project, and audit it using Axe, WAVE, Lighthouse, or other accessibility tools. Document the issues you found, and how did you address them. Share the revised version of your midterm project and document it on your learning logs.
+  * Go through the coding train's [Working with Data and APIs in JavaScript](https://thecodingtrain.com/tracks/data-and-apis-in-javascript)—watch it all the wai through. Check out the section on Server side development with the SELFIE and WEATHER apps.
