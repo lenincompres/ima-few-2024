@@ -1,4 +1,4 @@
-// uses two selected colors to generate color palettes using colormind app
+// uses two selected colors to generate color palettes using colormind API
 
 async function getModels(){
   let url = "http://colormind.io/list/";
@@ -16,8 +16,8 @@ getModels();
 generateButton.onclick = () => generatePalette();
 
 async function generatePalette(){
-  const mainColor = this.hexToRgb(mainColorInput.value);
-  const secondColor = this.hexToRgb(secondColorInput.value);
+  const mainColor = hexToRgb(mainColorInput.value);
+  const secondColor = hexToRgb(secondColorInput.value);
   const input = [
     [mainColor.r, mainColor.g, mainColor.b], 
     [secondColor.r, secondColor.g, secondColor.b], 
