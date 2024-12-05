@@ -1,8 +1,9 @@
-# Classes, Binders, Hash, Querystring and Storage
+# Final Project workshop
 
 ## Topic:
 
-Binders, Querystring (URLSearchParams), Local storage/Cookies.
+* DOM.js Binders
+* Saving browser data: Querystring (URLSearchParams), Local storage/Cookies.
 
 ## Activities:
 
