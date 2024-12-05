@@ -2,8 +2,8 @@
 
 ## Topic:
 
-* DOM.js Binders
-* Saving browser data: Querystring (URLSearchParams), Local storage/Cookies.
+* [DOM.js](https://github.com/lenincompres/DOM.js) Binders
+* Saving browser data: Querystring (URLSearchParams), [Local Storage](https://www.w3schools.com/jsreF/prop_win_localstorage.asp), [Cookies](https://www.w3schools.com/js/js_cookies.asp).
 
 ## Activities:
 
